@@ -1,1 +1,1 @@
-# curso-manipulacion-de-arrays
+# Manipulacion-de-Arrays
